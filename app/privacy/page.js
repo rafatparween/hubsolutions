@@ -28,8 +28,8 @@ export const PrivacyPolicy = () => {
                     </p>
                     <p className="text-lg">
                         If you have privacy concerns or questions, feel free to contact us at:{" "}
-                        <a href="mailto:support@hewlettprinterssolution.com" className="text-blue-500 hover:underline">
-                            support@hewlettprinterssolution.com
+                        <a href="mailto:support@print-hubsolutions.com" className="text-blue-500 hover:underline">
+                            support@print-hubsolutions.com
                         </a>
                     </p>
                     <p className="text-lg">

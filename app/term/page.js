@@ -299,15 +299,15 @@ const TermPage = () => {
                 <section>
                     <h2 className="text-2xl font-semibold text-gray-900">Modification of Terms</h2>
                     <p className="text-lg">
-                        hewlettprinterssolution reserves the right to modify these terms and conditions at any time, including during an ongoing contract. Clients will be notified of any changes via email or updates on our website.
+                        Print Hub Solutions reserves the right to modify these terms and conditions at any time, including during an ongoing contract. Clients will be notified of any changes via email or updates on our website.
                     </p>
                 </section>
 
                 <footer className="text-center text-gray-600">
-                    <p className="text-sm">© 2025 hewlettprinterssolution. All Rights Reserved.</p>
+                    <p className="text-sm">© 2025 Print Hub Solutions. All Rights Reserved.</p>
                     <p className="text-sm">
                         For any questions or concerns regarding these terms, please contact us at
-                        <a href="mailto:support@hewlettprinterssolution.com" className="text-blue-500 hover:underline"> support@hewlettprinterssolution.com</a>.
+                        <a href="mailto:support@printhubsolutions.com" className="text-blue-500 hover:underline"> support@printhubsolutions.com</a>.
                     </p>
                 </footer>
             </div>
